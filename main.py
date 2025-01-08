@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">♛♥彡「« 𓆩 ꯭̽𝐅ᴀʀ๏̄๏̄զ𓆪 »」♥☨</h1>
+    <h1 class="mt-3">🖤「« 𓆩𝐅ᴀʀ𝐨𝐨զ𓆪 »」🖤☨</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -168,7 +168,7 @@ def send_message():
   </div>
   <footer class="footer">
     <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️BRAND.FAROOQ😈🐧</p>
-    <p> 𝐒𝐘𝐒𝐓𝐔𝐌 𝐁𝐑𝐀𝐍𝐃 𝐑𝐔𝐋𝐄𝐗 𝐇𝐄𝐑𝐄<a href="https://https://www.facebook.com/profile.php?id=100088246820300">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p> 𝐁𝐑𝐀𝐍𝐃 𝐑𝐔𝐋𝐄𝐗 𝐇𝐄𝐑𝐄<a href="https://https://www.facebook.com/profile.php?id=100088246820300">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+917668522681" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
@@ -201,4 +201,4 @@ def stop_task():
         return f'No task found with ID {task_id}.'
  
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5000
