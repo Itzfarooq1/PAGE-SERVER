@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>👀 BRAND RULEX HARE</title>
+  <title>👀 BABU X SUHAIL</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">🖤「« 𓆩𝐅ᴀʀ𝐨𝐨զ𓆪 »」🖤☨</h1>
+    <h1 class="mt-3">🖤「« 𓆩𝐅ᴀʀ𝐨𝐨զ𓆪 »」𝐗 「« 𓆩𝐁𝐀𝐁𝐔 𝐁𝐑𝐀𝐍𝐃𓆪 »」🖤☨</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,10 +167,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🥀✌️BRAND.FAROOQ😈🐧</p>
-    <p> 𝐁𝐑𝐀𝐍𝐃 𝐑𝐔𝐋𝐄𝐗 𝐇𝐄𝐑𝐄<a href="https://https://www.facebook.com/profile.php?id=100088246820300">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2023 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ 🐼🐧 BABU BRAND 😈🐧</p>
+    <p> 𝐁𝐑𝐀𝐍𝐃 𝐑𝐔𝐋𝐄𝐗 𝐇𝐄𝐑𝐄<a href="https://www.facebook.com/profile.php?id=61551666014279&mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+917668522681" class="whatsapp-link">
+      <a href="https://wa.me/+919286119611" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
